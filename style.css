@@ -1,10 +1,10 @@
 body {
-  background-image: url("5453915.webp");
+  background-image: url("background.webp");
   background-repeat: no-repeat;
-  background-attachment:auto;
+  background-attachment: auto;
   background-size: cover;
-  max-width:100%;
-  height:auto;
+  max-width: 100%;
+  height: auto;
 }
 
 img {
@@ -12,4 +12,36 @@ img {
   margin: 0 auto;
   max-width: 20%;
   height: auto;
+}
+nav a {
+  display: inline;
+  background-color: thistle;
+  color: purple;
+  text-shadow: 2px 4px 4px gray;
+  margin-left: 41%;
+  font-weight: bolder;
+  font-family: "Libre Baskerville", serif;
+}
+nav a:hover {
+  color: blue;
+}
+header {
+  text-align: center;
+  font-family: "Dancing Script", cursive;
+  /* background-color: lightcyan */
+}
+#name {
+  font-size: 40pt;
+  color: orangered;
+}
+#click {
+  display: inline;
+  margin-left: 35%;
+  color: red;
+  background-color: plum;
+  font-family: "Dancing Script", cursive;
+  font-size: 20pt;
+}
+h1 {
+  color: olivedrab;
 }
