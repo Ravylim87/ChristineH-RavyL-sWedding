@@ -1,6 +1,11 @@
 body{
-    background-image: url('webbackground.jpg');
+    
+    background-image: url('5453915.webp');
+    background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
 }
+
 img {
   display: block;
   margin: 0 auto;
