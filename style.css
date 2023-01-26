@@ -33,8 +33,9 @@ header {
 #click {
   display: inline;
   color: red;
-  background-color: plum;
+  background-color: paleturquoise;
   font-family: "Dancing Script", cursive;
+  font-size: 18pt;
 }
 .tap{
   text-align: center;
