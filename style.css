@@ -10,7 +10,7 @@ body {
 img {
   display: block;
   margin: 0 auto;
-  max-width: 30%;
+  max-width: 40%;
   height: auto;
 }
 nav a {
@@ -29,25 +29,27 @@ nav a:hover {
 header {
   text-align: center;
   font-family: "Dancing Script", cursive;
-  /* background-color: lightcyan */
-}
-#name {
-  font-size: 40pt;
-  font-family: "Dancing Script", cursive;;
-  color: orangered;
 }
 #click {
   display: inline;
   color: red;
   background-color: plum;
   font-family: "Dancing Script", cursive;
-  font-size: 20pt;
 }
 .tap{
   text-align: center;
 }
-h1 {
+#name {
+  color: rgb(216, 14, 155);
+  font-weight: bold;
+  margin:0;
+  padding:0;
+}
+h2{
   color: olivedrab;
+  font-weight: bold;
+  margin:0;
+  padding:0;
 }
 .links{
   text-align: center;
